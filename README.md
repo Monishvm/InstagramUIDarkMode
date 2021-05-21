@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <!-- ![](https://github.com/Monishvm/InstagramUIDarkMode/blob/master/assets/output.gif) -->
-<img src="https://github.com/Monishvm/InstagramUIDarkMode/blob/master/assets/output.gif" width="48">
+<img src="https://github.com/Monishvm/InstagramUIDarkMode/blob/master/assets/output.gif" width="100">
